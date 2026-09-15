@@ -1,129 +1,189 @@
-<h1 align="center">Hi 👋, I'm Nusrat Jahan Jhuma</h1>
-<h3 align="center">Software Engineer | Machine Learning Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Machine+Learning+Engineer;Django+%2B+Full-Stack+Web+Developer;Building+Efficient%2C+Scalable+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Nusrat%20Jahan%20Jhuma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NusratJhuma0&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/NusratJhuma0?label=Followers&style=flat&color=2E9EF7" alt="followers" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Machine+Learning+Engineer;Django+%2B+Full-Stack+Web+Developer;Computer+Vision+%26+Applied+Machine+Learning;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=NusratJhuma0&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/NusratJhuma0?label=Followers&style=for-the-badge&color=2E9EF7" alt="followers" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" alt="open to internships" />
 
-- 🎓 CSE undergrad (B.Sc.) at **IUBAT – International University of Business Agriculture and Technology** *(BAETE Accredited Program under IEB)*, 2022–2026
-- 💡 Interested in **Software Engineering, Machine Learning & Full-Stack Web Development**
-- 🌱 Currently strengthening skills in **Django, Machine Learning & Computer Vision**
-- 🎯 Seeking a **Software Engineering internship** to gain hands-on industry experience
-- 📍 Based in Uttara, Dhaka, Bangladesh
-- 💬 Ask me about **Python, Django, Machine Learning, OOP & DSA**
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 👩‍💻 About Me
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+\`\`\`yaml
+name: Nusrat Jahan Jhuma
+role: Software Engineer | Machine Learning Engineer
+location: Uttara, Dhaka, Bangladesh
+education: "B.Sc. in Computer Science & Engineering, IUBAT (2022 - 2026)"
+accreditation: "BAETE Accredited Program under IEB"
+focus: ["Software Engineering", "Machine Learning", "Computer Vision", "Full-Stack Web Dev"]
+currently_seeking: "Software Engineering Internship"
+fun_fact: "I enjoy turning messy data and rough ideas into clean, working products."
+\`\`\`
 
-**Web & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+- 🔭 I'm currently building full-stack applications with **Django**
+- 🌱 I'm currently sharpening my skills in **Machine Learning & Computer Vision**
+- 🎯 2026 Goal: Land a **Software Engineering internship** and contribute to real-world, scalable systems
+- 🧠 Comfortable across the stack: **OOP · DSA · Databases · Model Training · Deployment**
+- 💬 Ask me about: **Python, Django, TensorFlow/PyTorch, OpenCV, MySQL/SQLite**
+- 📫 Reach me: **jhumanusrat2@gmail.com**
 
-**Machine Learning & Data**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+<br/>
 
-**Databases & Tools**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</p>
-
----
-
-### 🔥 Featured Projects
+## 🛠️ Tech Stack
 
 <table>
-  <tr>
-    <td width="50%">
-      <h4>🛒 Omniferous – Django E-Commerce Platform</h4>
-      Full-stack e-commerce app with user auth, cart, order processing, search/filtering, reviews & ratings, Stripe payment integration, and a complete Django Admin Panel. Deployed live on Railway.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h4>💊 Pharmacy Management System</h4>
-      Full-stack MVC-style system with inventory management (stock & expiry tracking, image upload), role-based authentication, shopping cart, receipt generation, and sales history reporting.
-      <br /><br />
-      <img src="https://img.shields.io/badge/Django%205.1-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+
+**Web & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+</td>
+<td valign="top" width="50%">
+
+**Machine Learning & Data**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+**Databases, Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 🔥 Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NusratJhuma0&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NusratJhuma0&layout=compact&hide_border=true" alt="top langs" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NusratJhuma0&hide_border=true" alt="streak stats" />
-</p>
+### 🛒 Omniferous
+**Django E-Commerce Web Application** · *Team Project*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NusratJhuma0&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
+Full-stack e-commerce platform with authentication, product management, shopping cart, order processing, search/filtering, and a review & rating system. Integrated **Stripe** for secure checkout, built a complete Django Admin Panel, added security hardening, and deployed the live app on **Railway**.
 
----
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 
-### 🤝 Connect With Me
+**[🔗 View Repository](https://github.com/NusratJhuma0)**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nusrat-jhuma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jhumanusrat2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8801831075833" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
-</p>
+### 💊 Pharmacy Management System
+**Full-Stack MVC Application** · *Team Project*
+
+Inventory management system (add/edit/delete medicines, stock & expiry tracking, image upload, search/filter) with secure role-based authentication. Includes a full sales module with cart functionality, receipt generation, and sales history reporting with date/customer filters.
+
+<img src="https://img.shields.io/badge/Django%205.1-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap%205.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+**[🔗 View Repository](https://github.com/NusratJhuma0)**
+
+</td>
+</tr>
+</table>
+
+> 💡 Replace the repository links above with your actual project repo URLs once added to GitHub.
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NusratJhuma0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NusratJhuma0&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NusratJhuma0&theme=tokyonight&hide_border=true" alt="streak stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NusratJhuma0&theme=tokyo-night&hide_border=true" alt="activity graph" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NusratJhuma0&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/NusratJhuma0/NusratJhuma0/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</div>
+
+> ⚙️ This animated snake needs a **one-time setup** — see the "Making It Fully Dynamic" section below. It won't render until you add the GitHub Action.
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nusrat-jhuma" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jhumanusrat2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/8801831075833" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://github.com/NusratJhuma0" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=100&section=footer" width="100%"/>
+</div>

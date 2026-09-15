@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Nusrat%20Jahan%20Jhuma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Nusrat%20Jahan%20Jhuma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Machine+Learning+Engineer;Django+%2B+Full-Stack+Web+Developer;Computer+Vision+%26+Applied+Machine+Learning;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Machine+Learning+Engineer;Full-Stack+Web+Developer;Computer+Vision+Enthusiast;Always+Learning%2C+Always+Growing" alt="typing-svg" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-\`\`\`yaml
+```yaml
 name: Nusrat Jahan Jhuma
 role: Software Engineer | Machine Learning Engineer
 location: Uttara, Dhaka, Bangladesh
@@ -27,7 +27,7 @@ accreditation: "BAETE Accredited Program under IEB"
 focus: ["Software Engineering", "Machine Learning", "Computer Vision", "Full-Stack Web Dev"]
 currently_seeking: "Software Engineering Internship"
 fun_fact: "I enjoy turning messy data and rough ideas into clean, working products."
-\`\`\`
+```
 
 - 🔭 I'm currently building full-stack applications with **Django**
 - 🌱 I'm currently sharpening my skills in **Machine Learning & Computer Vision**
@@ -50,6 +50,7 @@ fun_fact: "I enjoy turning messy data and rough ideas into clean, working produc
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 **Web & Frameworks**
 <br/>
@@ -58,7 +59,6 @@ fun_fact: "I enjoy turning messy data and rough ideas into clean, working produc
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </td>
 <td valign="top" width="50%">
@@ -98,14 +98,18 @@ fun_fact: "I enjoy turning messy data and rough ideas into clean, working produc
 ### 🛒 Omniferous
 **Django E-Commerce Web Application** · *Team Project*
 
-Full-stack e-commerce platform with authentication, product management, shopping cart, order processing, search/filtering, and a review & rating system. Integrated **Stripe** for secure checkout, built a complete Django Admin Panel, added security hardening, and deployed the live app on **Railway**.
+A full-stack e-commerce platform built with Django featuring:
+- 🔐 User authentication & authorization
+- 📦 Product management system
+- 🛒 Shopping cart functionality
+- 💳 Stripe payment integration
+- ⭐ Product reviews & ratings
+- 🔍 Advanced search & filtering
+- 📱 Responsive Bootstrap UI
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+**Tech Stack:** Django, Bootstrap, Stripe API, PostgreSQL, Railway
 
-**[🔗 View Repository](https://github.com/nusratjhuma2)**
+**[🔗 View Repository](https://github.com/nusratjhuma2/omniferous)**
 
 </td>
 <td width="50%" valign="top">
@@ -113,20 +117,22 @@ Full-stack e-commerce platform with authentication, product management, shopping
 ### 💊 Pharmacy Management System
 **Full-Stack MVC Application** · *Team Project*
 
-Inventory management system (add/edit/delete medicines, stock & expiry tracking, image upload, search/filter) with secure role-based authentication. Includes a full sales module with cart functionality, receipt generation, and sales history reporting with date/customer filters.
+A comprehensive pharmacy management solution featuring:
+- 💾 Inventory management (add/edit/delete)
+- 📅 Stock & expiry tracking
+- 🖼️ Image upload capability
+- 🔍 Search & filter functionality
+- 🔐 Role-based authentication
+- 🛒 Sales module with cart
+- 📊 Sales reports & analytics
 
-<img src="https://img.shields.io/badge/Django%205.1-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap%205.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+**Tech Stack:** Django 5.1, SQLite, JavaScript, Bootstrap 5.3
 
-**[🔗 View Repository](https://github.com/nusratjhuma2)**
+**[🔗 View Repository](https://github.com/nusratjhuma2/pharmacy-management-system)**
 
 </td>
 </tr>
 </table>
-
-> 💡 Replace the repository links above with your actual project repo URLs once added to GitHub.
 
 <br/>
 
@@ -159,7 +165,25 @@ Inventory management system (add/edit/delete medicines, stock & expiry tracking,
 <img src="https://raw.githubusercontent.com/nusratjhuma2/nusratjhuma2/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
 
-> ⚙️ This animated snake needs a **one-time setup** — see the "Making It Fully Dynamic" section below. It won't render until you add the GitHub Action.
+<br/>
+
+## 📈 My Coding Journey
+
+- **2022** - Started my B.Sc. at IUBAT and began learning Python & Web Development
+- **2023** - Mastered Django, completed first full-stack projects
+- **2024** - Dove into Machine Learning & Computer Vision, worked on team projects
+- **2025** - Enhanced skills in deployment, databases, and optimization
+- **2026** - Seeking internship opportunities to apply real-world skills
+
+<br/>
+
+## 🎯 Current Focus
+
+- 🔬 Building ML models with TensorFlow & PyTorch
+- 🎨 Computer Vision applications (OpenCV, YOLOv8)
+- 🌐 Full-stack Django applications with REST APIs
+- ☁️ Cloud deployment (Railway, Heroku)
+- 📚 Data Analysis & Visualization with Pandas & Matplotlib
 
 <br/>
 
@@ -168,22 +192,28 @@ Inventory management system (add/edit/delete medicines, stock & expiry tracking,
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nusrat-jhuma" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:jhumanusrat2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://wa.me/8801831075833" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 <a href="https://github.com/nusratjhuma2" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
 <br/>
 
+---
+
 <div align="center">
+
+**"Code today, change the world tomorrow!"**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=100&section=footer" width="100%"/>
+
 </div>

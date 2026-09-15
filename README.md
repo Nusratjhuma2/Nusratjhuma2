@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Nusrat%20Jahan%20Jhuma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Nusrat%20Jahan%20Jhuma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Machine+Learning+Engineer;Full-Stack+Web+Developer;Computer+Vision+Enthusiast;Always+Learning%2C+Always+Growing" alt="typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Machine+Learning+Engineer;Full-Stack+Developer+%7C+ML+Enthusiast;Django+Expert+%7C+Computer+Vision" alt="typing animation" />
 </a>
 
 <br/>

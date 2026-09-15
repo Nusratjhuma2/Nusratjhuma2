@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NusratJhuma0&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/NusratJhuma0?label=Followers&style=for-the-badge&color=2E9EF7" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=nusratjhuma2&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/nusratjhuma2?label=Followers&style=for-the-badge&color=2E9EF7" alt="followers" />
 <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" alt="open to internships" />
 
 </div>
@@ -105,7 +105,7 @@ Full-stack e-commerce platform with authentication, product management, shopping
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 
-**[🔗 View Repository](https://github.com/NusratJhuma0)**
+**[🔗 View Repository](https://github.com/nusratjhuma2)**
 
 </td>
 <td width="50%" valign="top">
@@ -120,7 +120,7 @@ Inventory management system (add/edit/delete medicines, stock & expiry tracking,
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Bootstrap%205.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 
-**[🔗 View Repository](https://github.com/NusratJhuma0)**
+**[🔗 View Repository](https://github.com/nusratjhuma2)**
 
 </td>
 </tr>
@@ -134,12 +134,12 @@ Inventory management system (add/edit/delete medicines, stock & expiry tracking,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NusratJhuma0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NusratJhuma0&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nusratjhuma2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjhuma2&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NusratJhuma0&theme=tokyonight&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nusratjhuma2&theme=tokyonight&hide_border=true" alt="streak stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NusratJhuma0&theme=tokyo-night&hide_border=true" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nusratjhuma2&theme=tokyo-night&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -148,7 +148,7 @@ Inventory management system (add/edit/delete medicines, stock & expiry tracking,
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NusratJhuma0&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=nusratjhuma2&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 <br/>
@@ -156,7 +156,7 @@ Inventory management system (add/edit/delete medicines, stock & expiry tracking,
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/NusratJhuma0/NusratJhuma0/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/nusratjhuma2/nusratjhuma2/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
 
 > ⚙️ This animated snake needs a **one-time setup** — see the "Making It Fully Dynamic" section below. It won't render until you add the GitHub Action.
@@ -176,7 +176,7 @@ Inventory management system (add/edit/delete medicines, stock & expiry tracking,
 <a href="https://wa.me/8801831075833" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="https://github.com/NusratJhuma0" target="_blank">
+<a href="https://github.com/nusratjhuma2" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
